@@ -31,8 +31,9 @@
 <p><b>Developer</b></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-yugjain1212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yugjain1212)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yug_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugjain)
-[![Instagram](https://img.shields.io/badge/Instagram-Yug_Jain-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yug_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-jain-yj12)
+[![Instagram](https://img.shields.io/badge/Instagram-yug__172-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yug__172)
+[![X](https://img.shields.io/badge/X-yugjain7373-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yugjain7373)
 
 <br>
 
